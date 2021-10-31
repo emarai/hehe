@@ -1,4 +1,4 @@
 module hehe
-fn hoho() {
+pub fn hoho() {
 	println("Hello")
 }
